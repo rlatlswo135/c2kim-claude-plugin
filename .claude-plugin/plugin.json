@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "c2kim-claude-plugin",
+  "version": "0.1.0",
+  "description": "c2kim's personal plugin",
+  "author": {
+    "name": "rlatlswo135",
+    "email": "rlatlswo13@gmail.com"
+  }
+}

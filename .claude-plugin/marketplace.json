@@ -1,0 +1,18 @@
+{
+  "name": "c2kim-marketplace",
+  "owner": {
+    "name": "rlatlswo135",
+    "email": "rlatlswo13@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "c2kim-claude-plugin",
+      "source": "./",
+      "description": "c2kim's personal plugin — React/Next.js 컨벤션 스킬 + 튜터 모드",
+      "version": "0.1.0",
+      "author": {
+        "name": "rlatlswo135"
+      }
+    }
+  ]
+}
